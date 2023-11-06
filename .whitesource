@@ -1,3 +1,6 @@
 {
-  "settingsInheritedFrom": "therealjeffbeck/whitesource-config@main"
+  "settingsInheritedFrom": "therealjeffbeck/whitesource-config@main",
+ "scanSettings": {
+    "enableReachability": true
+  }
 }
