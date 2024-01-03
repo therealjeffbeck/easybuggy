@@ -1,8 +1,15 @@
 {
   "settingsInheritedFrom": "therealjeffbeck/whitesource-config@main",
  "scanSettings": {
-    "enableReachability": true
-  }
+    "enableReachability": false
+  },
+"scanSettingsSAST": {
+"enableScan": true,
+"scanPullRequests": true,
+"incrementalScan": true,
+"baseBranches": [],
+"snippetSize": 10
+}
 }
 
 
